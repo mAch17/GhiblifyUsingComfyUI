@@ -14,6 +14,14 @@ The following is how you use this
 - Download the canny COntrolnet model from [here](https://huggingface.co/lllyasviel/control_v11p_sd15_canny) and place it in comfyuiinstallationdirectory/ComfyUI/models/controlnet 
 - download the json config from this repo and load it using comfyui load {workflow} option
 - Set input image and predd queue prompt for comfyui to run and create ghiblified images
-- This is a light setup and doesn't block my laptop with a 3050 GPU
 
-- 
+
+This is a light setup and doesn't block my laptop with a 3050 GPU
+
+Some examples:
+![image](https://github.com/mAch17/GhiblifyUsingComfyUI/blob/main/examples/ComfyUI_00026_.png)
+![image](https://github.com/mAch17/GhiblifyUsingComfyUI/blob/main/examples/ComfyUI_00063_.png)
+![image](https://github.com/mAch17/GhiblifyUsingComfyUI/blob/main/examples/ComfyUI_00009_.png)
+![image](https://github.com/mAch17/GhiblifyUsingComfyUI/blob/main/examples/ComfyUI_00060_.png)
+![image](https://github.com/mAch17/GhiblifyUsingComfyUI/blob/main/examples/image%20(1).jpg)
+![image](https://github.com/mAch17/GhiblifyUsingComfyUI/blob/main/examples/ComfyUI_00062_.png)
