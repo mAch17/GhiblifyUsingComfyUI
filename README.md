@@ -18,7 +18,7 @@ The following is how you use this
 
 This is a light setup and doesn't block my laptop with a 3050 GPU
 
-Some examples:
+Some examples [no cherry picking] :
 ![image](https://github.com/mAch17/GhiblifyUsingComfyUI/blob/main/examples/ComfyUI_00026_.png)
 ![image](https://github.com/mAch17/GhiblifyUsingComfyUI/blob/main/examples/ComfyUI_00063_.png)
 ![image](https://github.com/mAch17/GhiblifyUsingComfyUI/blob/main/examples/ComfyUI_00009_.png)
